@@ -13,6 +13,8 @@ class Dragon {
     return dragons.map(dragon => dragon.name);
   }
 }
+
+//module.exports = Dragon;
 /****************************************************************************/
 /******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
 
